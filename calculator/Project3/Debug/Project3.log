@@ -1,0 +1,10 @@
+﻿  project.c
+C:\Users\THL_father\Desktop\ccc\Project3\Project3\project.c(69,42): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\THL_father\Desktop\ccc\Project3\Project3\project.c(74,49): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\THL_father\Desktop\ccc\Project3\Project3\project.c(85,49): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\THL_father\Desktop\ccc\Project3\Project3\project.c(94,42): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\THL_father\Desktop\ccc\Project3\Project3\project.c(99,52): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+C:\Users\THL_father\Desktop\ccc\Project3\Project3\project.c(108,42): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\THL_father\Desktop\ccc\Project3\Project3\project.c(14,9): warning C4101: “f”: 未引用的局部变量
+C:\Users\THL_father\Desktop\ccc\Project3\Project3\project.c(14,12): warning C4101: “g”: 未引用的局部变量
+  Project3.vcxproj -> C:\Users\THL_father\Desktop\ccc\Project3\Debug\Project3.exe
